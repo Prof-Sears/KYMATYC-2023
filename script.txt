@@ -1,0 +1,10 @@
+Solve the equation 8q – 5 = 5q - 20.
+I’m going to represent the equation with poker chips.
+Positive terms are above the line.
+Negative terms are below.
+Combine the q terms by subtracting 5q from each side.
+Matching terms above and below the line add out.
+Next, combine the constant terms by adding 5 to both sides.
+Again, matching terms add out.
+Finally, stack the chips in piles of three.
+The solution is q = -5.
